@@ -1,0 +1,25 @@
+{
+    "name": "RTClibExtended",
+    "description": "A fork of Adafruit RTC library and Jack Christensen's library",
+    "keywords": [
+        "RTC",
+        "DS3231",
+        "DS3232"
+    ],
+    "authors": [
+        {
+            "name": "FabioCuomo"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/davidbotella/FabioCuomo-DS3231.git"
+    },
+    "frameworks": [
+        "arduino"
+    ],
+    "platforms": [
+        "atmelavr"
+    ],
+    "version": "0.0.0-alpha+sha.71e6c48828"
+}

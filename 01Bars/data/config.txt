@@ -1,0 +1,1 @@
+{"wifiSSID":"Level_test_maison_2025","loggerName":"Level_test_maison_2025","sampleRate":"1","UTC_Value":"1"}

@@ -24,4 +24,4 @@ Projet de logger de niveau d'eau OpenLEVEL pour ESP32C3 (compatible Seeed XIAO E
 
 Université de Bordeaux
 
-<img src="Image_01.png" alt="Logo OpenLEVEL" width="300"/>
+<img src="Image_01.png" alt="Logo OpenLEVEL" width="600"/>

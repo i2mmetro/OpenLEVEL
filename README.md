@@ -12,9 +12,9 @@ Projet de logger de niveau d'eau OpenLEVEL pour ESP32C3 (compatible Seeed XIAO E
 
 ## Répertoires
 
-- `src/` : code source principal
-- `lib/` : bibliothèques locales
-- `DOC/` : documentation
+- `01Bars/` : code source principal
+- `Typon/` : A venir
+- `Typon/` : A venir
 
 ## Utilisation
 

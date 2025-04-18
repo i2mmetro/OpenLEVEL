@@ -1,2 +1,25 @@
-# OpenLEVEL_1.0_ESP32C3
+# OpenLEVEL 1.0 ESP32C3
+
 Projet de logger de niveau d'eau OpenLEVEL pour ESP32C3 (compatible Seeed XIAO ESP32C3).
+
+## Description
+
+- Acquisition de pression, température, tension batterie
+- Enregistrement sur SPIFFS
+- Serveur web embarqué pour configuration et téléchargement
+- Compatible DeepSleep et réveil par RTC ou contact REED
+- Compatible PlatformIO
+
+## Répertoires
+
+- `src/` : code source principal
+- `lib/` : bibliothèques locales
+- `DOC/` : documentation
+
+## Utilisation
+
+1. Ouvrir ce dossier avec PlatformIO (VSCode)
+2. Flasher sur une carte ESP32C3 compatible
+3. Configurer via le serveur web embarqué
+
+Université de Bordeaux
